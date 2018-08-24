@@ -1,3 +1,4 @@
+I'm Trinh, was born in Tu Du.
 hello
 how are you?
 CREATE TABLE emp (
